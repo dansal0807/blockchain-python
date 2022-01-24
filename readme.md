@@ -1,3 +1,1 @@
-Esse projeto busca explicitar os conceitos básicos de uma blockchain na prática.
-Ainda é um projeto em progresso e foi majoritariamente construído em cima de outros
-projeto que serviram de modelo para este.
+Esse projeto busca explicitar os conceitos básicos de uma blockchain na prática. Sua intenção é juntar diferentes versões de blockchains construídas para elucidar sua construção. Notadamente, a construção das blockchains resulta na mesma e tem a blockchain do bitcoin como princípio.
