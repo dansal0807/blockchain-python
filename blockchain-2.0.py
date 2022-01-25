@@ -103,5 +103,5 @@ def is_valid():
         message = {"messagem": "A blockchain não é válida."}
     return jsonify(message), 200
 
-#esta configuração permite que a aplicação seja descentralização:
+#esta configuração permite que a aplicação seja descentralizada:
 app.run(host = '0.0.0.0', port=5000)
