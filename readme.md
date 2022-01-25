@@ -9,7 +9,9 @@ Além de ser necessário ter o python instalado, é necessário instalar o Flask
 pip install Flask
 
 O flask será instalado e, em seguida, iniciar o código. É recomendável utilizar o postman para averiguar os usos da blockchain, visto que não criei os templates de uso.
-------
+
+
+---------
 [EN]
 This projects tries to explicit and understand the basic concepts in a blockchain in a practical way. Its intention is to mix different possible ways to create a blockchain. In its essence, it's a simple blockchain with no commercial pourposes and it's based on bitcoin's blockchain.
 
